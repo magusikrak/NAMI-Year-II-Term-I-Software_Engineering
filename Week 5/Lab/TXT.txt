@@ -1,0 +1,4 @@
+"cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+"code-runner.executorMap": {
+            "cpp": "g++ $fullFileName -o $fileNameWithoutExt.exe && start $fileNameWithoutExt.exe"
+    },"c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
