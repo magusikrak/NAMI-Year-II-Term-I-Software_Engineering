@@ -13,6 +13,7 @@ int main()
    // Read two strings.
    cout << "Enter a string: ";
    cin.getline(firstString, LENGTH);
+   
    cout << "Enter another string: ";
    cin.getline(secondString, LENGTH);
 
