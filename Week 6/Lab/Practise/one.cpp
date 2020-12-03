@@ -2,13 +2,11 @@
 using namespace std;
 int main()
 {
-    int a =10;
-    int *b;
-    b=&a;
-    cout<<a<<endl;
-    cout<< &a <<endl;
-    cout<< b <<endl;
-    cout<< &b <<endl;
-    cout<< *b <<endl;
+    // int arr[]={1,2,3,4},*val;
+    // val=arr;
+    // cout<<*(val)<<endl;
+    int a=5;
+    int *p=&a;
+    cout<< p <<endl;
     return 0;   
 }

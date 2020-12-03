@@ -21,11 +21,12 @@ int main()
    // Process the number and subsequent numbers.
    while (tolower(input[0]) != 'q')
    {
-      total += atoi(input);   // Keep a running total
-      count++;                // Count the numbers entered
+      
       // Get the next number.
       cout << "Enter the next number or Q to quit: ";
       cin.getline(input, SIZE);
+      total += atoi(input);   // Keep a running total
+      count++;                // Count the numbers entered
    }
 
    // If any numbers were entered, display their average.
