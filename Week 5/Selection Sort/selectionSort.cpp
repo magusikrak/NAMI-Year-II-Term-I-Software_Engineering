@@ -41,4 +41,5 @@ void selectionSort(int arr[], int size)
     {
         cout<<arr[k];
     }
+    cout<<endl;
 }
