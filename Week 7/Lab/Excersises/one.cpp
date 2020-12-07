@@ -1,23 +1,24 @@
 #include <iostream>
 using namespace std;
-void countCharacters(char *);
+int countCharacters(char *);
 int main()
 {
-    // int size = 20;
-    // // char yourWord[size];
-
-    // char *pYourWord;
-    // pYourWord = new char[size];
-    // cout << "please enter your word to be counted ";
-    // cin.getline(pYourWord, size);
-    // cout<<&pYourWord<<endl;
-    // // countCharacters(&pYourWord);
-    int i = 10;
-    int *p = &i;
-
+    int size;
+    size = 20;
+    char *str = new char[size];
+    cout << "enter the string" << endl;
+    cin.getline(str, size);
+    int totalNumberOfCharacters = countCharacters(str);
+    cout << "The total number of chars is " << totalNumberOfCharacters << endl;
     return 0;
 }
-void countCharacters(char *myWord)
+int countCharacters(char *string)
 {
-    cout << *myWord << endl;
+    int count = 0;
+    while (string[count] != '\0')
+    {
+
+        count++;
+    }
+    return count;
 }

@@ -1,39 +1,38 @@
 #include <iostream>
+#include <iostream>
 using namespace std;
-int returnMode(int *, int);
-int returnMode(int *arr,int size)
-{
-    int num,location,times;
-    for(int i=0;i<size-1;i++)
-    {
-        num=arr[i];
-        times=1;
-        for(int j=i+1;j<size;j++)
-        {
-             if(arr[i]==arr[j])
-             {
-                 times++;
+int Counter();
+int main(){
+    int size;
+    cout << "Enter array size: ";
+    cin >> size;
 
-             }
+    int stat[size];
+    int count[size];
+    int greatest;
+
+
+
+    for (int i = 0; i < size; i++) {
+        cout << "Enter value for " << i+1 << ": ";
+        cin >> stat[i];
+    }
+    //Counter
+    for (int i = 0; i < size; i++) {
+        count[i] = 0;
+        for (int j = 0; j < size; j++) {
+            if(stat[i] == stat[j]){
+                count[i]++;
+            }
         }
     }
-    cout<<times<<endl;
-    cout<<num<<endl;
-    return num;
-}
-int main()
-{
-    int size;
-    cout << "enter the number of elements in the array" << endl;
-    // cout<<  <<endl;
-    cin >> size;
-    int *arr = new int[size];
-    for (int i = 0; i < size; i++)
-    {
-        int nCounter = i + 1;
-        cout << "enter the " << nCounter << "th element in the " << i << "th index" << endl;
-        cin >> arr[i];
+    int greatest_count = count[0];
+    //Greatest
+    for (int i = 0; i < size; i++) {
+        if(greatest_count < count[i]){
+            greatest_count = i;
+            greatest = i;
+        }
     }
-    int mode = returnMode(arr, size);
-    return 0;
+    cout << "Most repeated element: " << stat[greatest] << "\nRepeatation of  " << stat[greatest] << ": " << greatest_count ;
 }
