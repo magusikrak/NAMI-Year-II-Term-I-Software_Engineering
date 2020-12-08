@@ -13,7 +13,6 @@ int main()
 }
 void reverseString(char *str)
 {
-    // char reversedString
     int size = 0;
     while (str[size] != '\0')
     {
