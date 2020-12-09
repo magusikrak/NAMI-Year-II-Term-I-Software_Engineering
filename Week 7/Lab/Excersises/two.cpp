@@ -20,6 +20,7 @@ void reverseString(char *str)
         size++;
     }
     char *reversedString = new char[size];
+    
     for (int i = size - 1, j = 0; i >= 0; i--, j++)
     {
         reversedString[j] = str[i];
