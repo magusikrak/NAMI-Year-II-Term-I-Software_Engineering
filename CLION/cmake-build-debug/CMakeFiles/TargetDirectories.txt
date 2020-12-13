@@ -1,3 +1,0 @@
-/mnt/f8071e61-f8ab-47a1-a512-4992e646885e/NAMI/Year 2/Term I/Software Engineering/CLION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/f8071e61-f8ab-47a1-a512-4992e646885e/NAMI/Year 2/Term I/Software Engineering/CLION/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/f8071e61-f8ab-47a1-a512-4992e646885e/NAMI/Year 2/Term I/Software Engineering/CLION/cmake-build-debug/CMakeFiles/CLION.dir
