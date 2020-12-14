@@ -1,7 +1,11 @@
 // This program has a partially initialized array.
 #include <iostream>
 using namespace std;
-
+/**
+ * @brief 
+ * 
+ * @return int 
+ */
 int main()
 {
    const int SIZE = 7;

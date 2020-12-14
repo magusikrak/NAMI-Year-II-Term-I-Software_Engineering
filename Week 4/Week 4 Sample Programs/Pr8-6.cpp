@@ -97,6 +97,7 @@ void dualSort(int id[], double sales[], int size)
    }
 }
 
+
 //****************************************************************
 // Definition of showOrder function. Accepts sales and id arrays *
 // as arguments. The size of these arrays is passed into num.    *
