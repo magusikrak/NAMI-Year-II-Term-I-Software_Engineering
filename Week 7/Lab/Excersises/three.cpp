@@ -1,3 +1,4 @@
+/**
 #include <iostream>
 using namespace std;
 int countWords(char *);
@@ -12,8 +13,10 @@ int main()
     cout << "the number of words present in the sentece is\t" << numberOfWords << endl;
     return 0;
 }
+
 int countWords(char *sentence)
 {
+    
     int words = 1, size = 0;
 
     while (sentence[size] != '\0')

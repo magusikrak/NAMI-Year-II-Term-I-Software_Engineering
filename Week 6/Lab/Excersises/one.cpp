@@ -19,4 +19,5 @@ int *allocateArray(int size)
         cin >> arr[i];
     }
     return arr;
+
 }

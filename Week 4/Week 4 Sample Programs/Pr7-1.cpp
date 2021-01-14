@@ -8,6 +8,7 @@
  * @copyright Copyright (c) 2020
  * 
  */
+
 #include <iostream>
 /**
  * @brief 
@@ -17,6 +18,10 @@ using namespace std;
 
 int main()
 {
+   /**
+    * @brief 
+    * 
+    */
    const int NUM_EMPLOYEES = 6;
    int hours[NUM_EMPLOYEES];
 
