@@ -1,0 +1,6 @@
+/Users/samirlama/Desktop/College Work L5/SE/Week 6- Renew/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/samirlama/Desktop/College Work L5/SE/Week 6- Renew/cmake-build-debug/CMakeFiles/Week_6__5.dir
+/Users/samirlama/Desktop/College Work L5/SE/Week 6- Renew/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/samirlama/Desktop/College Work L5/SE/Week 6- Renew/cmake-build-debug/CMakeFiles/Week_6__2.dir
+/Users/samirlama/Desktop/College Work L5/SE/Week 6- Renew/cmake-build-debug/CMakeFiles/Week_6__1.dir
+/Users/samirlama/Desktop/College Work L5/SE/Week 6- Renew/cmake-build-debug/CMakeFiles/Week_6__Renew.dir

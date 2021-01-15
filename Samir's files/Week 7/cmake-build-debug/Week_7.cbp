@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Week_7"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="three">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/three" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 three"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="three/fast">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/three" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 three/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/two" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 two"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="two/fast">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/two" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 two/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/one" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 one"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="one/fast">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/one" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 one/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_7">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/Week_7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_7"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Week_7/fast">
+				<Option output="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug/Week_7" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/samirlama/Desktop/College Work L5/SE/Week 7/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 Week_7/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/samirlama/Desktop/College\ Work\ L5/SE/Week\ 7/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/samirlama/Desktop/College Work L5/SE/Week 7/1.cpp">
+			<Option target="one"/>
+		</Unit>
+		<Unit filename="/Users/samirlama/Desktop/College Work L5/SE/Week 7/2.cpp">
+			<Option target="two"/>
+		</Unit>
+		<Unit filename="/Users/samirlama/Desktop/College Work L5/SE/Week 7/3.cpp">
+			<Option target="three"/>
+		</Unit>
+		<Unit filename="/Users/samirlama/Desktop/College Work L5/SE/Week 7/main.cpp">
+			<Option target="Week_7"/>
+		</Unit>
+		<Unit filename="/Users/samirlama/Desktop/College Work L5/SE/Week 7/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,3 +1,0 @@
-E:/NAMI/Year 2/Term I/Courses/Software Engineering/CLion/cmake-build-debug/CMakeFiles/CLion.dir
-E:/NAMI/Year 2/Term I/Courses/Software Engineering/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/NAMI/Year 2/Term I/Courses/Software Engineering/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
