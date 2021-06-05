@@ -9,8 +9,12 @@ int main()
     cout << "enter the size of the elements" << endl;
     cin >> size;
     int *arr = allocateArray(size);
+
+
     int *sortedArray = sortAscendingOrder(arr, size);
+
     double average=calculateAverage(arr,size);
+    
     cout<<"the sorted list of scores is "<<endl;
     for(int i=0;i<size;i++)
     {

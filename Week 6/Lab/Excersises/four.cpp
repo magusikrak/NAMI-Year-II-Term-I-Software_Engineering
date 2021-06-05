@@ -1,8 +1,9 @@
 #include <iostream>
-#include <iostream>
 using namespace std;
 int Counter();
 int main(){
+
+
     int size;
     cout << "Enter array size: ";
     cin >> size;
